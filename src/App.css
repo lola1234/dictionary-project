@@ -2,13 +2,19 @@ body {
   background: #f9f8fe;
 }
 
+header {
+  text-align: center;
+  font-weight: 700;
+  font-size: 35px;
+}
+
 a {
   color: #0cadc2;
 }
 
 .App {
   padding: 60px 0 100px;
-  max-width: 960px;
+  max-width: 85%;
   margin: 0 auto;
 }
 
